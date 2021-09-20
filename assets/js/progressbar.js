@@ -27,4 +27,4 @@ class ProgressBar {
 	}
 }
 
-new ProgressBar(document.querySelector('.progress-bar'), 10);
+new ProgressBar(document.querySelector('.progress-bar'), 1);
