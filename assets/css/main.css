@@ -65,6 +65,11 @@ h6 {
     font-weight: lighter;
 }
 
+p {
+    font-size: 24px;
+    font-weight: lighter;
+}
+
 .progress-bar {
     position: relative;
     width: auto;
