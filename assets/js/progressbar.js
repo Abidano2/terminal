@@ -59,4 +59,4 @@ class ProgressBar1 {
 	}
 }
 
-new ProgressBar1(document.querySelector('.progress-bar-ch1'), 10);
+new ProgressBar1(document.querySelector('.progress-bar-ch1'), 37);
