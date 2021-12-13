@@ -110,8 +110,9 @@ p {
 
 .progress-bar-value-ch1 {
     position: absolute;
-    width: 50%;
-    height: 50%;
+    width: 100%;
+    height: 100%;
+    font-size: 36px;
 
     display: flex;
     align-items: center;
